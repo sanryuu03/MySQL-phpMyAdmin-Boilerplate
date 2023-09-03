@@ -41,7 +41,11 @@ This is a [MySQL](https://www.mysql.com) with [phpMyAdmin](https://www.phpmyadmi
 
 - masuk ke dalam container
 
-      docker exec -i -t express-js-google-drive-api /bin/bash
+      docker exec -i -t phpMyAdmin /bin/bash
+
+- inspect ke dalam container
+
+      docker inspect phpMyAdmin
 
 - list file
 

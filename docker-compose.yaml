@@ -17,6 +17,7 @@ services:
     image: phpmyadmin:latest
     restart: always
     environment:
+      - UPLOAD_LIMIT=1G
       - PMA_ARBITRARY=1
     ports:
       - protocol: tcp
