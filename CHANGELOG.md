@@ -1,6 +1,10 @@
 # Release Notes
 
 
+## v1.0.2 (2024-06-09)
+
+- change port phpMyAdmin
+
 ## v1.0.1 (2023-09-03)
 
 - Warning: POST Content-Length of 23983878 bytes exceeds the limit of 2097152 bytes in Unknown on line 0

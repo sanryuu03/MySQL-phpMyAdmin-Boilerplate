@@ -53,7 +53,7 @@ This is a [MySQL](https://www.mysql.com) with [phpMyAdmin](https://www.phpmyadmi
 
 - masuk ke phpMyAdmin
 
-      http://localhost:9000
+      http://localhost:9008
 
 - Server
 
